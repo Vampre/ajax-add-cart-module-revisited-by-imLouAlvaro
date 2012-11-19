@@ -1,0 +1,3 @@
+Revisited ajax cart module to magento, original module was develope by Manish Prakash and posted on http://www.excellencemagentoblog.com/magento-add-product-to-cart-ajax.
+
+This new version works for magento 1.7+, was fixed to default magento theme, if cart sidebar stop to works with custom theme will be necessary to change function productAddToCartForm.submit inside view.phtml file (@/app/design/frontend/default/default/template/catalog/product).
